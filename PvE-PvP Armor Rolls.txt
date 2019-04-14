@@ -95,6 +95,9 @@ dimwishlist:item=49&perks=3416944458,4007230256
 dimwishlist:item=49&perks=3416944458,1812356167
 dimwishlist:item=49&perks=3416944458,1068909436
 
+
+
+
 //Helmet
 
 //Enhanced Hand Cannon Targeting, Enhanced Sniper Rifle Targeting, Enhanced Bow Targeting, Precision Weapon Targeting, Scatter Projectile Targeting, Pump Action, Remote Connection, or Light Reactor
