@@ -1,0 +1,74 @@
+//Helmet
+
+//Enhanced Hand Cannon Targeting, Enhanced Sniper Rifle Targeting, Enhanced Bow Targeting, Precision Weapon Targeting, Scatter Projectile Targeting, Pump Action, Remote Connection, or Light Reactor
+dimwishlist:item=45&perks=1356474366
+dimwishlist:item=45&perks=1983861079
+dimwishlist:item=45&perks=1576700957
+dimwishlist:item=45&perks=2414923993
+dimwishlist:item=45&perks=3813989326
+dimwishlist:item=45&perks=1608112177
+dimwishlist:item=45&perks=2196878528
+dimwishlist:item=45&perks=514613051
+
+
+//Gauntlets
+
+//Enhanced Hand Cannon Loader, Enhanced Shotgun Loader, Enhanced Grenade Launcher Loader, Light Arms Loader, Rifle Loader or Large Weapon Loader and:
+//Shotgun Scavenger, Sniper Rifle Scavenger, or Fusion Rifle Scavenger
+dimwishlist:item=46&perks=508571393,1066067378 
+dimwishlist:item=46&perks=508571393,2600330634 
+dimwishlist:item=46&perks=508571393,127731051 
+dimwishlist:item=46&perks=3856768043,1066067378
+dimwishlist:item=46&perks=3856768043,2600330634 
+dimwishlist:item=46&perks=3856768043,127731051 
+dimwishlist:item=46&perks=994729458,1066067378
+dimwishlist:item=46&perks=994729458,2600330634
+dimwishlist:item=46&perks=994729458,127731051
+dimwishlist:item=46&perks=1572280253,1066067378
+dimwishlist:item=46&perks=1572280253,2600330634
+dimwishlist:item=46&perks=1572280253,127731051
+dimwishlist:item=46&perks=2111651017,1066067378
+dimwishlist:item=46&perks=2111651017,2600330634
+dimwishlist:item=46&perks=2111651017,127731051
+dimwishlist:item=46&perks=1068982181,1066067378
+dimwishlist:item=46&perks=1068982181,2600330634
+dimwishlist:item=46&perks=1068982181,127731051
+
+//(meme-y grenade launcher build gauntlets) Enhanced Grenade Launcher Loader, Large Weapon Loader or Grenade Launcher Loader and Grenade Launcher Scavenger
+dimwishlist:item=46&perks=994729458,866518141 
+dimwishlist:item=46&perks=1068982181,866518141
+dimwishlist:item=46&perks=1809014285,866518141
+
+
+//Chest
+
+//Enhanced Unflinching Sniper Aim, Enhanced Unflinching Scout Rifle Aim, Enhanced Unflinching Bow Aim, Unflinching Light Arms Aim, Unflinching Rifle Aim, or Unflinching Shotgun Aim
+dimwishlist:item=47&perks=854794537
+dimwishlist:item=47&perks=2788953856 
+dimwishlist:item=47&perks=1084281489 
+dimwishlist:item=47&perks=3676627761 
+dimwishlist:item=47&perks=2825949957 
+dimwishlist:item=47&perks=168673710 
+
+
+//Legs
+
+//Enhanced Hand Cannon Dexterity, Enhanced Shotgun Dexterity, Enhanced Sniper Rifle Dexterity, Light Arms Dexterity, Oversize Weapon Dexterity, or Rifle Dexterity
+dimwishlist:item=48&perks=4140705235 
+dimwishlist:item=48&perks=1183779334 
+dimwishlist:item=48&perks=1227994396 
+dimwishlist:item=48&perks=301115145 
+dimwishlist:item=48&perks=3515212050 
+dimwishlist:item=48&perks=877194565 
+
+
+//Class Item
+
+//All Special/Heavy Scavengers except Sword
+dimwishlist:item=49&perks=1066067378 
+dimwishlist:item=49&perks=2600330634 
+dimwishlist:item=49&perks=127731051 
+dimwishlist:item=49&perks=866518141 
+dimwishlist:item=49&perks=4245438319 
+dimwishlist:item=49&perks=790090923 
+dimwishlist:item=49&perks=3054567270 
