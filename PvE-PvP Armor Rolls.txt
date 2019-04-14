@@ -1,0 +1,171 @@
+//-----Helmet-----
+
+//Sniper Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,1180144002 
+dimwishlist:item=45&perks=433323503,1180144002
+dimwishlist:item=45&perks=1107740237,1180144002
+dimwishlist:item=45&perks=2910842650,1180144002
+
+//Fusion Rifle Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,4034210761  
+dimwishlist:item=45&perks=433323503,4034210761 
+dimwishlist:item=45&perks=1107740237,4034210761 
+dimwishlist:item=45&perks=2910842650,4034210761 
+
+//Linear Fusion Rifle Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,4007230256  
+dimwishlist:item=45&perks=433323503,4007230256 
+dimwishlist:item=45&perks=1107740237,4007230256 
+dimwishlist:item=45&perks=2910842650,4007230256 
+
+//Grenade Launcher Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,330650351  
+dimwishlist:item=45&perks=433323503,330650351 
+dimwishlist:item=45&perks=1107740237,330650351 
+dimwishlist:item=45&perks=2910842650,330650351 
+
+//Rocket Launcher Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,1812356167  
+dimwishlist:item=45&perks=433323503,1812356167 
+dimwishlist:item=45&perks=1107740237,1812356167 
+dimwishlist:item=45&perks=2910842650,1812356167 
+
+//Shotgun Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,1068909436  
+dimwishlist:item=45&perks=433323503,1068909436 
+dimwishlist:item=45&perks=1107740237,1068909436 
+dimwishlist:item=45&perks=2910842650,1068909436 
+
+//Machine Gun Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
+dimwishlist:item=45&perks=2042848612,901125364 
+dimwishlist:item=45&perks=433323503,901125364
+dimwishlist:item=45&perks=1107740237,901125364
+dimwishlist:item=45&perks=2910842650,901125364
+
+
+//-----Gauntlets-----
+
+//Impact Induction or Enhanced Impact Induction and all of the Scavengers except sword
+dimwishlist:item=46&perks=3938115510,790090923
+dimwishlist:item=46&perks=1463486301,790090923
+dimwishlist:item=46&perks=3938115510,2600330634
+dimwishlist:item=46&perks=1463486301,2600330634
+dimwishlist:item=46&perks=3938115510,1066067378
+dimwishlist:item=46&perks=1463486301,1066067378
+dimwishlist:item=46&perks=3938115510,4245438319
+dimwishlist:item=46&perks=1463486301,4245438319
+dimwishlist:item=46&perks=3938115510,127731051
+dimwishlist:item=46&perks=1463486301,127731051
+dimwishlist:item=46&perks=3938115510,866518141
+dimwishlist:item=46&perks=1463486301,866518141
+dimwishlist:item=46&perks=3938115510,3054567270
+dimwishlist:item=46&perks=1463486301,3054567270
+
+
+//-----Chest-----
+
+//Unflinching Sniper Aim, Unflinching Machine Gun, or Unflinching Linear Fusion Aim
+dimwishlist:item=47&perks=1757762246
+dimwishlist:item=47&perks=1772682177 
+dimwishlist:item=47&perks=4124601641 
+
+//-----Legs-----
+
+//Traction, Dynamo, Enhanced Bomber, or Distribution
+dimwishlist:item=48&perks=1818103563 
+dimwishlist:item=48&perks=4048902980  
+dimwishlist:item=48&perks=2972736610  
+dimwishlist:item=48&perks=2610215900  
+
+
+//-----Class Item-----
+
+//Recuperation and all of the Special/Heavy Scavengers/Reserves except Sword
+dimwishlist:item=49&perks=3416944458,901125364
+dimwishlist:item=49&perks=3416944458,2600330634
+dimwishlist:item=49&perks=3416944458,1066067378
+dimwishlist:item=49&perks=3416944458,4245438319
+dimwishlist:item=49&perks=3416944458,3054567270
+dimwishlist:item=49&perks=3416944458,866518141
+dimwishlist:item=49&perks=3416944458,127731051
+dimwishlist:item=49&perks=3416944458,1180144002
+dimwishlist:item=49&perks=3416944458,4034210761
+dimwishlist:item=49&perks=3416944458,330650351
+dimwishlist:item=49&perks=3416944458,4007230256
+dimwishlist:item=49&perks=3416944458,1812356167
+dimwishlist:item=49&perks=3416944458,1068909436
+
+//Helmet
+
+//Enhanced Hand Cannon Targeting, Enhanced Sniper Rifle Targeting, Enhanced Bow Targeting, Precision Weapon Targeting, Scatter Projectile Targeting, Pump Action, Remote Connection, or Light Reactor
+dimwishlist:item=45&perks=1356474366
+dimwishlist:item=45&perks=1983861079
+dimwishlist:item=45&perks=1576700957
+dimwishlist:item=45&perks=2414923993
+dimwishlist:item=45&perks=3813989326
+dimwishlist:item=45&perks=1608112177
+dimwishlist:item=45&perks=2196878528
+dimwishlist:item=45&perks=514613051
+
+
+//Gauntlets
+
+//Enhanced Hand Cannon Loader, Enhanced Shotgun Loader, Enhanced Grenade Launcher Loader, Light Arms Loader, Rifle Loader or Large Weapon Loader and:
+//Shotgun Scavenger, Sniper Rifle Scavenger, or Fusion Rifle Scavenger
+dimwishlist:item=46&perks=508571393,1066067378 
+dimwishlist:item=46&perks=508571393,2600330634 
+dimwishlist:item=46&perks=508571393,127731051 
+dimwishlist:item=46&perks=3856768043,1066067378
+dimwishlist:item=46&perks=3856768043,2600330634 
+dimwishlist:item=46&perks=3856768043,127731051 
+dimwishlist:item=46&perks=994729458,1066067378
+dimwishlist:item=46&perks=994729458,2600330634
+dimwishlist:item=46&perks=994729458,127731051
+dimwishlist:item=46&perks=1572280253,1066067378
+dimwishlist:item=46&perks=1572280253,2600330634
+dimwishlist:item=46&perks=1572280253,127731051
+dimwishlist:item=46&perks=2111651017,1066067378
+dimwishlist:item=46&perks=2111651017,2600330634
+dimwishlist:item=46&perks=2111651017,127731051
+dimwishlist:item=46&perks=1068982181,1066067378
+dimwishlist:item=46&perks=1068982181,2600330634
+dimwishlist:item=46&perks=1068982181,127731051
+
+//(meme-y grenade launcher build gauntlets) Enhanced Grenade Launcher Loader, Large Weapon Loader or Grenade Launcher Loader and Grenade Launcher Scavenger
+dimwishlist:item=46&perks=994729458,866518141 
+dimwishlist:item=46&perks=1068982181,866518141
+dimwishlist:item=46&perks=1809014285,866518141
+
+
+//Chest
+
+//Enhanced Unflinching Sniper Aim, Enhanced Unflinching Scout Rifle Aim, Enhanced Unflinching Bow Aim, Unflinching Light Arms Aim, Unflinching Rifle Aim, or Unflinching Shotgun Aim
+dimwishlist:item=47&perks=854794537
+dimwishlist:item=47&perks=2788953856 
+dimwishlist:item=47&perks=1084281489 
+dimwishlist:item=47&perks=3676627761 
+dimwishlist:item=47&perks=2825949957 
+dimwishlist:item=47&perks=168673710 
+
+
+//Legs
+
+//Enhanced Hand Cannon Dexterity, Enhanced Shotgun Dexterity, Enhanced Sniper Rifle Dexterity, Light Arms Dexterity, Oversize Weapon Dexterity, or Rifle Dexterity
+dimwishlist:item=48&perks=4140705235 
+dimwishlist:item=48&perks=1183779334 
+dimwishlist:item=48&perks=1227994396 
+dimwishlist:item=48&perks=301115145 
+dimwishlist:item=48&perks=3515212050 
+dimwishlist:item=48&perks=877194565 
+
+
+//Class Item
+
+//All Special/Heavy Scavengers except Sword
+dimwishlist:item=49&perks=1066067378 
+dimwishlist:item=49&perks=2600330634 
+dimwishlist:item=49&perks=127731051 
+dimwishlist:item=49&perks=866518141 
+dimwishlist:item=49&perks=4245438319 
+dimwishlist:item=49&perks=790090923 
+dimwishlist:item=49&perks=3054567270 
