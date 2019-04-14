@@ -1,28 +1,46 @@
 //-----Helmet-----
 
 //Sniper Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,1180144002 
+dimwishlist:item=45&perks=433323503,1180144002
+dimwishlist:item=45&perks=1107740237,1180144002
+dimwishlist:item=45&perks=2910842650,1180144002
 
 //Fusion Rifle Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,4034210761  
+dimwishlist:item=45&perks=433323503,4034210761 
+dimwishlist:item=45&perks=1107740237,4034210761 
+dimwishlist:item=45&perks=2910842650,4034210761 
 
 //Linear Fusion Rifle Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
-
-//Heavy Ammo Finder and Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,4007230256  
+dimwishlist:item=45&perks=433323503,4007230256 
+dimwishlist:item=45&perks=1107740237,4007230256 
+dimwishlist:item=45&perks=2910842650,4007230256 
 
 //Grenade Launcher Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,330650351  
+dimwishlist:item=45&perks=433323503,330650351 
+dimwishlist:item=45&perks=1107740237,330650351 
+dimwishlist:item=45&perks=2910842650,330650351 
 
 //Rocket Launcher Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,1812356167  
+dimwishlist:item=45&perks=433323503,1812356167 
+dimwishlist:item=45&perks=1107740237,1812356167 
+dimwishlist:item=45&perks=2910842650,1812356167 
 
 //Shotgun Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,1068909436  
+dimwishlist:item=45&perks=433323503,1068909436 
+dimwishlist:item=45&perks=1107740237,1068909436 
+dimwishlist:item=45&perks=2910842650,1068909436 
 
 //Machine Gun Reserves and Heavy Lifting, Enhanced Heavy Lifting, Ashes to Assets, or Enhanced Ashes to Assets
-dimwishlist:item=45&perks=
+dimwishlist:item=45&perks=2042848612,901125364 
+dimwishlist:item=45&perks=433323503,901125364
+dimwishlist:item=45&perks=1107740237,901125364
+dimwishlist:item=45&perks=2910842650,901125364
 
 
 //-----Gauntlets-----
@@ -46,13 +64,19 @@ dimwishlist:item=46&perks=1463486301,3054567270
 
 //-----Chest-----
 
-//Unflinching Sniper Aim, Unflinching Machine Gun, or Enhanced Unflinching Linear Fusion Rifle Aim
-dimwishlist:item=47&perks=
+//Unflinching Sniper Aim, Unflinching Machine Gun, or Unflinching Linear Fusion Aim
+dimwishlist:item=47&perks=1757762246
+dimwishlist:item=47&perks=1772682177 
+dimwishlist:item=47&perks=4124601641 
 
 //-----Legs-----
 
-//Traction, Dynamo, Enhanced Bomber, or Distribution and Primary Ammo Finder or Special Ammo Finder
-dimwishlist:item=48&perks=
+//Traction, Dynamo, Enhanced Bomber, or Distribution
+dimwishlist:item=48&perks=1818103563 
+dimwishlist:item=48&perks=4048902980  
+dimwishlist:item=48&perks=2972736610  
+dimwishlist:item=48&perks=2610215900  
+
 
 //-----Class Item-----
 
